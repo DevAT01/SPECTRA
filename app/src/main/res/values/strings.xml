@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SPECTRA</string>
+    <string name="SignUp">SignUp</string>
+    <string name="LogOut">Log Out</string>
+
+    <array name="Branch">
+        <item>Aerospace</item>
+        <item>CSE</item>
+        <item>Civil</item>
+        <item>ECE</item>
+        <item>Electrical</item>
+        <item>Mechanical</item>
+        <item>Metallurgy</item>
+        <item>Production</item>
+    </array>
+
+</resources>
+
+
+
+

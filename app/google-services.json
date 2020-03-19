@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "926683893380",
+    "firebase_url": "https://spectra-46d68.firebaseio.com",
+    "project_id": "spectra-46d68",
+    "storage_bucket": "spectra-46d68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926683893380:android:9987fd9a8def4e7cfafcd1",
+        "android_client_info": {
+          "package_name": "com.example.spectra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926683893380-lftc9vbvnns9t0r2ebvii1f4ubm2truq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.spectra",
+            "certificate_hash": "b18af0972e0c73813660f5243186c91638921878"
+          }
+        },
+        {
+          "client_id": "926683893380-hn41u6u87v2bh233eoph1h5641pidjdg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzjOvy-pHmwnzKGxRoqbDIbZVGrCH6ElY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926683893380-hn41u6u87v2bh233eoph1h5641pidjdg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
